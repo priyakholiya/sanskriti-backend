@@ -4,7 +4,6 @@ com\sanskriti\controller\ContactController.class
 com\sanskriti\dto\ProductRequest.class
 com\sanskriti\service\InventoryService.class
 com\sanskriti\service\ImageService.class
-com\sanskriti\model\OrderItem.class
 com\sanskriti\dto\StockRequest.class
 com\sanskriti\exception\GlobalExceptionHandler.class
 com\sanskriti\model\ContactMessage$ContactMessageBuilder.class
@@ -13,19 +12,13 @@ com\sanskriti\service\ProductService.class
 com\sanskriti\model\Product$ProductBuilder.class
 com\sanskriti\SanskritiApplication$1.class
 com\sanskriti\dto\OrderRequest.class
-com\sanskriti\model\ProductImage.class
 com\sanskriti\model\Order$OrderBuilder.class
 com\sanskriti\service\VariantService.class
-com\sanskriti\model\ProductVariant.class
-com\sanskriti\model\Order.class
 com\sanskriti\repository\ProductImageRepository.class
 com\sanskriti\repository\ContactMessageRepository.class
 com\sanskriti\service\DashboardService.class
-com\sanskriti\dto\VariantRequest.class
-com\sanskriti\model\ContactMessage.class
 com\sanskriti\dto\OrderRequest$OrderItemDto.class
 com\sanskriti\dto\ImageRequest.class
-com\sanskriti\model\Product.class
 com\sanskriti\model\OrderItem$OrderItemBuilder.class
 com\sanskriti\dto\ApiResponse.class
 com\sanskriti\dto\DashboardResponse$DashboardResponseBuilder.class
@@ -35,7 +28,6 @@ com\sanskriti\dto\ApiResponse$ApiResponseBuilder.class
 com\sanskriti\repository\ProductRepository.class
 com\sanskriti\model\StockMovement$StockMovementBuilder.class
 com\sanskriti\controller\MainController.class
-com\sanskriti\dto\DashboardResponse.class
 com\sanskriti\model\ProductImage$ProductImageBuilder.class
 com\sanskriti\repository\ProductVariantRepository.class
 com\sanskriti\SanskritiApplication.class
